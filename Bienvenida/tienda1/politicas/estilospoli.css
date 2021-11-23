@@ -1,0 +1,16 @@
+.poli{
+    background: darkgrey;
+  text-align: center;
+}
+.parra{
+    background: cornsilk;
+    text-align: justify;
+    height: 160px;
+    width: 1000px;
+    transform: translate(20%, 50%);
+}
+body{
+   background: rgb(255, 255, 255);
+   
+
+}
